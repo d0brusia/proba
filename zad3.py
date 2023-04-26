@@ -7,4 +7,4 @@ def kostka(ilosc):
     return print(lista)
 
 ilosc=int(input("Ile rzutów kostką?\n"))
-kostka(ilosc)
+print(kostka(ilosc)) 
