@@ -10,3 +10,4 @@ ilosc=int(input("Ile rzutów kostką?\n"))
 print(kostka(ilosc)) 
 
 print("omg nie wierze w to co sie dxirjr")
+print("kocham pieskki")
